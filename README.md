@@ -27,3 +27,35 @@ It automates tasks that are typically performed in IT support roles, such as che
 1. Open PowerShell  
 2. Navigate to the project folder  
 3. Run:
+
+If scripts are disabled, run:
+
+---
+
+## Screenshots
+
+---
+
+### Menu Interface
+Displays available diagnostic and troubleshooting options.
+
+![Menu](screenshots/menu.png)
+
+---
+
+### Full System Scan
+Shows system information, performance data, and active processes.
+
+![Full System Scan](screenshots/full-scan.png)
+
+---
+
+### Report Export
+Exports diagnostic results to a report file for later analysis.
+
+![Report Export](screenshots/report.png)
+
+---
+
+## Purpose
+This project was built to simulate real-world IT support tasks, focusing on system diagnostics, troubleshooting, and automation using PowerShell.
