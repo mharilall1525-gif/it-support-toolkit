@@ -39,21 +39,20 @@ If scripts are disabled, run:
 ### Menu Interface
 Displays available diagnostic and troubleshooting options.
 
-![Menu](screenshots/menu.png)
-
+![Menu](menu.png)
 ---
 
 ### Full System Scan
 Shows system information, performance data, and active processes.
 
-![Full System Scan](screenshots/full-scan.png)
+![Full System Scan](full-scan.png)
 
 ---
 
 ### Report Export
 Exports diagnostic results to a report file for later analysis.
 
-![Report Export](screenshots/report.png)
+![Report Export](report.png)
 
 ---
 
